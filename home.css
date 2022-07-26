@@ -1,0 +1,331 @@
+.navbar{
+    position: absolute;
+width: 1440px;
+height: 77px;
+left: 0px;
+top: 0px;
+
+background: rgba(217, 217, 217, 0.2);
+}
+.logo{
+    float: left;
+    position: absolute;
+width: 220px;
+height: 52px;
+left: 44px;
+top: 12px;
+
+background: url('https://github.com/trollord/Codetantra_X86_64-/blob/master/logo-final.png?raw=true');
+}
+.bg-img{
+    width: 100%;
+    height: 600px;
+    position: relative;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url('https://media.istockphoto.com/photos/dog-shelter-picture-id1250060339?k=20&m=1250060339&s=612x612&w=0&h=6TpYtlawwP-KpHYGE9_hRJL5wDUq53XK71pWWpOaEyA=');
+    background-size: cover;
+    background-position: center;
+    top: -100px;
+    left: -10px;
+}
+.text-back{
+    position: absolute;
+width: 476px;
+height: 206px;
+left: 468px;
+top: 183px;
+
+background: rgba(206, 205, 205, 0.5);
+}
+.heading-bg{
+    position: absolute;
+width: 452px;
+height: 64px;
+/* left: 478px; */
+/* top: 203px; */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #114f88;
+}
+.text-back{
+    position: absolute;
+    text-align: center;
+}
+.para-bg{
+    position: absolute;
+width: 361px;
+height: 64px;
+left: 50px; 
+top: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+.btn1-home{
+    position: absolute;
+width: 160px;
+height: 38px;
+left: 624px;
+top: 311px;
+
+background: #1D5F9B;
+border-radius: 20px;
+}
+
+.box1{
+    position: absolute;
+width: 184px;
+height: 169px;
+left: 300px;
+top: 450px;
+
+background: rgba(217, 217, 217, 0.8);
+border-radius: 10px;
+}
+.icon-home{
+    position:absolute;
+left: 55px;
+right: 80px;
+top: 20.87%; 
+bottom: 12.44%;
+width: 65px;
+height:60px;
+color: #227BCD;
+}
+
+.p-home{
+    position: absolute;
+width: 90px;
+height: 34px;
+left: 40px;
+top:90px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+color: #1D5F9B;
+}
+.box2{
+    position: absolute;
+width: 184px;
+height: 169px;
+left: 600px;
+top: 450px;
+
+background: rgba(217, 217, 217, 0.8);
+border-radius: 10px;
+}
+.box3{
+    position: absolute;
+width: 184px;
+height: 169px;
+left: 900px;
+top: 450px;
+
+background: rgba(217, 217, 217, 0.8);
+border-radius: 10px;
+}
+.blue{
+    position: absolute;
+width: 790px;
+height: 100px;
+left: 325px;
+top: 697px;
+
+background: rgba(34, 123, 205, 0.64);
+border-radius: 10px;
+}
+.blue-logo{
+    position: absolute;
+width: 230px;
+height: 64px;
+left: 0px;
+top: 16px;
+
+/* background: url('https://github.com/trollord/Codetantra_X86_64-/blob/master/logo-final.png?raw=true'); */
+}
+.blue-text{
+    position: absolute;
+width: 520px;
+height: 38px;
+left: 214px;
+top: -10px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 34px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.blue-btn{
+    position: absolute;
+width: 152px;
+height: 34px;
+left: 398px;
+top: 60px;
+
+background: #D9D9D9;
+border-radius: 20px;
+}
+.adoptions{
+    position: absolute;
+width: 1440px;
+height: 398px;
+left: 0px;
+top: 874px;
+background-color: rgba(128, 128, 128, 0.562);
+
+}
+.adopt-head{
+    position: absolute;
+width: 629px;
+height: 54px;
+left: 350px;
+top: 38px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 36px;
+text-align: center;
+
+color: #1D5F9B;
+
+
+}
+.adopt-img{
+    position: absolute;
+width: 234px;
+height: 224px;
+
+}
+
+.img1{
+    left: 50px;
+top: 120px;
+}
+.img2{
+    left: 328px;
+top: 120px;
+}
+.img3{
+    left: 612px;
+top: 120px;
+}
+.img4{
+    left: 880px;
+top: 120px;
+}
+.adopt-btn{
+    position: absolute;
+width: 164px;
+height: 66px;
+left: 1150px;
+top: 180px;
+
+background: rgba(34, 123, 205, 0.64);
+border-radius: 30px;
+}
+
+.footer{
+    position: absolute;
+width: 1440px;
+height: 171px;
+left: 0px;
+top: 1829px;
+
+background: rgba(34, 123, 205, 0.6);
+}
+.test{
+    position: absolute;
+width: 1201px;
+height: 360px;
+left: 145px;
+top: 1357px;
+
+
+}
+.img-test{
+    position: absolute;
+width: 415px;
+height: 348px;
+left: 0px;
+top: 0px;
+
+
+}
+.test-text{
+    position: absolute;
+width: 626px;
+height: 340px;
+left: 575px;
+top: 20px;
+
+
+}
+.heading-test{
+    position: absolute;
+width: 560px;
+height: 72px;
+left: 16px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 41px;
+text-align: center;
+
+color: #227BCD;
+
+
+}
+.para-test{
+    position: absolute;
+width: 626px;
+height: 194px;
+left: 0px;
+top: 90px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 31px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.btn-test{
+    position: absolute;
+width: 290px;
+height: 70px;
+left: 750px;
+top: 270px;
+
+background: #227BCD;
+border-radius: 30px;
+}
